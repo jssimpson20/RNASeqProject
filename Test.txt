@@ -1,5 +1,0 @@
-This file will be used to test Branching and Pull Requests.
-
-This change is being made on the test-branch.
-
-I'm testing branching and pull requests. Dr Field said I need to post an inspirational quote, so, "it's almost spring break!"
